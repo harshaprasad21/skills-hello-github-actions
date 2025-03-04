@@ -1,4 +1,4 @@
-name: Post welcome comment
+name: welcome meassage
 on:
   pull_request:
     types: [opened]
